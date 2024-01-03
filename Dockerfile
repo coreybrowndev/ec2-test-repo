@@ -14,6 +14,7 @@ RUN if [ "$TARGETPLATFORM" = "linux/amd64" ] ; then \
         echo "Unsupported platform" ; \
         exit 1 ; \
     fi
+    
 EXPOSE 3333
 WORKDIR /app
 VOLUME /app
