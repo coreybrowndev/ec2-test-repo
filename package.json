@@ -21,6 +21,7 @@
     "youch-terminal": "^2.2.3"
   },
   "dependencies": {
+    "@adonisjs/ace": "^11.3.1",
     "@adonisjs/core": "^5.9.0",
     "@adonisjs/lucid": "^18.4.2",
     "@adonisjs/repl": "^3.1.11",
@@ -28,7 +29,6 @@
     "mysql2": "^3.6.5",
     "proxy-addr": "^2.0.7",
     "reflect-metadata": "^0.2.1",
-    "source-map-support": "^0.5.21",
-    "ace": "^5.0.0"
+    "source-map-support": "^0.5.21"
   }
 }
